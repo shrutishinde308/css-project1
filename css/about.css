@@ -1,0 +1,19 @@
+.about-box {
+    background: white; 
+    padding: 40px; 
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.about-text {
+    line-height: 1.6; 
+    max-width: 800px; 
+    margin: 20px auto;
+}
+
+.about-img {
+    width: 100%; 
+    max-width: 400px; 
+    border-radius: 8px; 
+    margin-top: 20px;
+}
